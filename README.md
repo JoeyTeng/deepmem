@@ -4,7 +4,7 @@
 >
 > The evolvement history can be found [here](https://github.com/JoeyTeng/deeplang/commits/wasmvm-memory-management-implementation/src/vm)
 >
-> And you can find [the design document](https://github.com/JoeyTeng/deeplang/blob/wasmvm-memory-management-implementation/doc/deepvm%20memory%20management.md) from the same repo. A English version can be found in this repo under `/doc`
+> And you can find [the design document](https://github.com/JoeyTeng/deeplang/blob/wasmvm-memory-management-implementation/doc/deepvm%20memory%20management.md) from the same repo. A [English version](https://github.com/JoeyTeng/deepmem/blob/master/docs/design.en.md) can be found in this repo under `/docs`
 
 ## How to build
 
